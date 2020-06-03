@@ -7,3 +7,13 @@ def optimalKSelection():
 	pass
 
 
+
+def findDistance():
+    """
+    find the euclidean distance between two observation
+    """
+    pass
+    
+    
+
+
